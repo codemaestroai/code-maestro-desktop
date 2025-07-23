@@ -69,6 +69,27 @@ CodeMaestro connects to Unity through our Advanced Unity MCP connector ([codemae
 - Modern operating system (macOS 10.15+, Windows 10+, or Linux)
 - Internet connection for AI features
 
+## Troubleshooting
+
+### MCP Launch Errors
+
+If you encounter errors when launching any MCP (including test echo MCP), follow these steps:
+
+1. **Completely uninstall CodeMaestro**
+   - Remove the CodeMaestro application from your system
+   
+2. **Delete the cache folder**
+   After uninstalling, manually delete the CodeMaestro cache directory:
+   - **macOS:** `~/.codemaestro`
+   - **Windows:** `%USERPROFILE%\.codemaestro`
+   - **Linux:** `~/.codemaestro`
+
+3. **Reinstall CodeMaestro**
+   - Download and install the latest version
+   - Reconnect to your Unity project
+
+This process clears all cached data and configurations, resolving most MCP-related launch issues.
+
 ---
 
 **Made by [Code Maestro](https://www.code-maestro.com) • [Join our Discord](https://discord.gg/bsFRAqATXz) • [Report Issues](https://github.com/codemaestroai/codemaestro/issues) • [License](./LICENSE)**
