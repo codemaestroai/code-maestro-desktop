@@ -13,9 +13,8 @@ Transform your Unity workflow with intelligent assistance and automation. CodeMa
 
 **1. Download CodeMaestro**
 Get the latest version for your platform:
-- **macOS:** CodeMaestro-1.0.6-mac-arm64.dmg / CodeMaestro-1.0.6-mac-x64.dmg
-- **Windows:** CodeMaestro-1.0.6-win-x64.exe
-- **Linux:** CodeMaestro-1.0.6-mac-x64.zip
+- **macOS:** CodeMaestro-1.0.xx-mac-arm64.dmg / CodeMaestro-1.0.xx-mac-x64.dmg
+- **Windows:** CodeMaestro-1.0.xx-win-x64.exe
 
 **2. Install Unity MCP Connector**
 Install our Unity MCP connector: [codemaestroai/advanced-unity-mcp](https://github.com/codemaestroai/advanced-unity-mcp)
@@ -25,14 +24,12 @@ Install our Unity MCP connector: [codemaestroai/advanced-unity-mcp](https://gith
 - AI will analyze your entire project (scripts, assets, scenes)
 - Start building your game with full project context!
 
-## Latest Features (v1.0.7)
+## Latest Features (v1.0.8)
 
 **🚀 UI/UX Update**
-- Improve Prompt Refine feature
-- Add Local Path processing
-- Agents Flow improves
-- Minor fixes
-- Add MAC AutoUpdate
+- Added "Apply Changes" for code artifacts
+- Added File Attachments support
+- Fix MCP TimeOut Error
 
 ## What CodeMaestro Can Do
 
