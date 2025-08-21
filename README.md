@@ -24,12 +24,12 @@ Install our Unity MCP connector: [codemaestroai/advanced-unity-mcp](https://gith
 - AI will analyze your entire project (scripts, assets, scenes)
 - Start building your game with full project context!
 
-## Latest Features (v1.0.12)
+## Latest Features (v1.0.14)
 
 **🚀 App Update**
-- Added local tools (Active when user setup path for project in Project Settings)
-- Added one click Unity Connector Install
-- Code preview improvements (UI, allow to resize etc.)
+- Added local deep analyze tools
+- Update Unity Connector
+- Add Some Connectors like GIT / Open Memory / Jira / BLENDER
 - UI improvements
 
 ## What CodeMaestro Can Do
@@ -91,6 +91,7 @@ This process clears all cached data and configurations, resolving most MCP-relat
 ---
 
 **Made by [Code Maestro](https://www.code-maestro.com) • [Join our Discord](https://discord.gg/bsFRAqATXz) • [Report Issues](https://github.com/codemaestroai/codemaestro/issues) • [License](./LICENSE)**
+
 
 
 
