@@ -24,41 +24,7 @@ Install our Unity MCP connector: [codemaestroai/advanced-unity-mcp](https://gith
 - AI will analyze your entire project (scripts, assets, scenes)
 - Start building your game with full project context!
 
-## Latest Features (v1.0.15 - v1.0.17)
 
-#  Changelog
-##  🏗️ CHANGES
-### ✨ New Features
-Secure Local Indexing  
-Added full secure local indexing.  
-⚠️ Important: No files will ever be stored on the server, even temporarily.  
-
-### Vector Search Tools  
-Introduced new vector-based search tools for large repositories.  
-
-### 🔄 Updates
-Agent Logic  
-Improved agent logic for better accuracy and efficiency.  
-
-User Projects  
-All user projects previously stored on the server have been permanently deleted.  
-When you log in to the application, you will now be prompted to add your project again.  
-
-### 🎨 Improvements
-Agent UI  
-Updated agent UI for easier reading and better usability.  
-
-### Artifact Visualization  
-Enhanced artifact visualization for improved clarity.  
-
-### Bug Fixes  
-Fixed multiple UI-related bugs to ensure a smoother experience.  
-
-📝 Update Instructions
-After updating to this version:  
-- Add your project again when prompted after launching the application.  
-- Enjoy secure, local-only indexing with no server storage.  
-- Explore the new vector search tools for large repositories.  
 
 
 ## What CodeMaestro Can Do
@@ -120,6 +86,7 @@ This process clears all cached data and configurations, resolving most MCP-relat
 ---
 
 **Made by [Code Maestro](https://www.code-maestro.com) • [Join our Discord](https://discord.gg/bsFRAqATXz) • [Report Issues](https://github.com/codemaestroai/codemaestro/issues) • [License](./LICENSE)**
+
 
 
 
